@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Contact
-📧 Email: your-email@gmail.com  
+📧 Email: dipikachaudhari2530@gmail.com  
 🔗 GitHub: https://github.com/dipikachaudhari2530
 <!--
 **dipikachaudhari2530/dipikachaudhari2530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
