@@ -1,7 +1,7 @@
 
 # Hi 👋 I'm Dipika Chaudhari
 
-💻 MERN Stack Developer (Fresher)  
+💻 Full Stack Developer (Fresher)  
 📍 Gujarat, India  
 
 ---
@@ -11,6 +11,7 @@
 - React.js
 - Node.js, Express.js
 - MongoDB
+- My SQL
 
 ---
 
