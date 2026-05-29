@@ -1,6 +1,6 @@
 # Hi 👋 I'm Dipika
 
-💻 .NET Full Stack Developer Fresher
+💻 .NET Full Stack Developer 
 
 ## Skills
 - C#
