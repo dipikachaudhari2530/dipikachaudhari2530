@@ -7,12 +7,16 @@
 ---
 
 ## 🚀 Skills
-- HTML, CSS, JavaScript
-- React.js
-- Node.js, Express.js
-- MongoDB
-- My SQL
-
+C#
+ASP.NET Core MVC
+ASP.NET Web API
+SQL Server
+Entity Framework Core
+HTML
+CSS
+JavaScript
+Bootstrap
+Git & GitHub
 ---
 
 ## 📂 Projects
