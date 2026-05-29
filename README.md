@@ -1,7 +1,7 @@
 
 # Hi 👋 I'm Dipika Chaudhari
 
-💻 Full Stack Developer (Fresher)  
+💻 .Net Full Stack Developer (Fresher)  
 📍 Gujarat, India  
 
 ---
