@@ -1,28 +1,23 @@
+# Hi 👋 I'm Dipika
 
-# Hi 👋 I'm Dipika Chaudhari
+💻 .NET Full Stack Developer Fresher
 
-💻 .Net Full Stack Developer (Fresher)  
-📍 Gujarat, India  
+## Skills
+- C#
+- ASP.NET Core MVC
+- Web API
+- SQL Server
+- Entity Framework Core
+- HTML CSS JavaScript
+- Bootstrap
 
----
+## Projects
+- Student Management System
+- Employee Management System
+- E-Commerce API
 
-## 🚀 Skills
-C#
-ASP.NET Core MVC
-ASP.NET Web API
-SQL Server
-Entity Framework Core
-HTML
-CSS
-JavaScript
-Bootstrap
-Git & GitHub
----
-
-## 📂 Projects
-🔹 MERN CRUD App  
-🔹 Weather App  
-🔹 Todo App  
+## Currently Learning
+- .NET Full Stack Development
 
 ---
 
